@@ -37,5 +37,5 @@
     10. Introduction to NoSQL Databases
 1. Data Visualization and Communication with Tableau
 
-Some Courses are appeared in more than one learning path.
+*Some Courses are appeared in more than one learning path.*
 
