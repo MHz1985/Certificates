@@ -14,6 +14,7 @@
     7. Getting Started with Data Warehousing and BI Analytics [94%]
 1. NoSQL, Big Data and Spark
     1. Introduction to NoSQL Databases [94%]
+    1. Introduction to Big Data with Spark and Hadoop [94.3%]
 1. Data Analyst
     1. Introduction to Data Analytics [86%]
     1. Python for Data Science, AI & Development [94.60%]
@@ -35,6 +36,7 @@
     8. ETL and Data Pipelines with Shell, Airflow and Kafka [94%]
     9. Getting Started with Data Warehousing and BI Analytics [94%]
     10. Introduction to NoSQL Databases [94%]
+    11. Introduction to Big Data with Spark and Hadoop [94.3%]
 1. Data Visualization and Communication with Tableau [85.98%]
 
 *Some Courses are appeared in more than one learning path.*
