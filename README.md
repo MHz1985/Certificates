@@ -15,6 +15,7 @@
 1. NoSQL, Big Data and Spark
     1. Introduction to NoSQL Databases [94%]
     1. Introduction to Big Data with Spark and Hadoop [94.3%]
+    1. Data Engineering and Machine Learning using Spark [100%]
 1. Data Analyst
     1. Introduction to Data Analytics [86%]
     1. Python for Data Science, AI & Development [94.60%]
@@ -37,6 +38,7 @@
     9. Getting Started with Data Warehousing and BI Analytics [94%]
     10. Introduction to NoSQL Databases [94%]
     11. Introduction to Big Data with Spark and Hadoop [94.3%]
+    12. Data Engineering and Machine Learning using Spark [100%]
 1. Data Visualization and Communication with Tableau [85.98%]
 
 *Some Courses are appeared in more than one learning path.*
