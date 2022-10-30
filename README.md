@@ -1,6 +1,7 @@
 # Professional Certificates:
 
 1. Data Warehouse Engineer
+1. Data Engineering
 
 # List of Courses:
 
@@ -39,6 +40,7 @@
     10. Introduction to NoSQL Databases [94%]
     11. Introduction to Big Data with Spark and Hadoop [94.3%]
     12. Data Engineering and Machine Learning using Spark [100%]
+    13. Data Engineering Capstone Project [99%]
 1. Data Visualization and Communication with Tableau [85.98%]
 
 *Some Courses are appeared in more than one learning path.*
