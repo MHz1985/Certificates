@@ -1,7 +1,9 @@
 # Professional Certificates:
 
-1. Data Warehouse Engineer
-1. Data Engineering
+1. IBM Data Warehouse Engineer ✅
+1. IBM Data Engineering ✅
+1. IBM Data Science (see progress below)
+1. IBM Data Analyst (see progress below)
 
 # List of Courses:
 
