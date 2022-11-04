@@ -8,7 +8,7 @@
 
 # List of Courses:
 
-1. Data Warehouse
+1. Data Warehouse ✅
     1. Introduction to Data Engineering [91.20%]
     2. Introduction to Relational Databases (RDBMS) [91.70%]
     3. Databases and SQL for Data Science with Python [98.84%]
@@ -16,11 +16,11 @@
     5. Relational Database Administration (DBA) [95.80%]
     6. ETL and Data Pipelines with Shell, Airflow and Kafka [94%]
     7. Getting Started with Data Warehousing and BI Analytics [94%]
-1. NoSQL, Big Data and Spark
+1. NoSQL, Big Data and Spark ✅
     1. Introduction to NoSQL Databases [94%]
     1. Introduction to Big Data with Spark and Hadoop [94.3%]
     1. Data Engineering and Machine Learning using Spark [100%]
-1. Data Engineering
+1. Data Engineering ✅
     1. Introduction to Data Engineering [91.20%]
     2. Python for Data Science, AI & Development [94.60%]
     3. Python Project for Data Engineering [100%]
