@@ -47,7 +47,7 @@
 1. DevOps and Software Engineering ⏳
     1. Hands-on Introduction to Linux Commands and Shell Scripting [94%]
     1. Python for Data Science, AI & Development [94.60%]
-1. Data Visualization and Communication with Tableau [85.98%]
+1. Data Visualization and Communication with Tableau [85.98%] ✅
 
 *Some Courses are appeared in more than one learning path.*
 
