@@ -45,6 +45,7 @@
     1. Python for Data Science, AI & Development [94.60%]
     1. Databases and SQL for Data Science with Python [98.84%]
 1. DevOps and Software Engineering ⏳
+    1. Introduction to DevOps [98.5%]
     1. Hands-on Introduction to Linux Commands and Shell Scripting [94%]
     1. Python for Data Science, AI & Development [94.60%]
 1. Data Visualization and Communication with Tableau [85.98%] ✅
