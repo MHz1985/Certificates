@@ -48,6 +48,7 @@
     1. Introduction to DevOps [98.5%]
     1. Hands-on Introduction to Linux Commands and Shell Scripting [94%]
     1. Python for Data Science, AI & Development [94.60%]
+    1. Introduction to Containers with Docker, Kubernetes and OpenShift [96.84%]
 1. Data Visualization and Communication with Tableau [85.98%] ✅
 
 *Some Courses are appeared in more than one learning path.*
