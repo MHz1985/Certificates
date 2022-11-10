@@ -5,6 +5,7 @@
 1. IBM Data Science ⏳ (see progress below)
 1. IBM Data Analyst ⏳ (see progress below)
 1. IBM DevOps ⏳ (see progress below)
+1. IBM Full Stack ⏳ (see progress below)
 
 # List of Courses:
 
@@ -49,6 +50,9 @@
     1. Hands-on Introduction to Linux Commands and Shell Scripting [94%]
     1. Python for Data Science, AI & Development [94.60%]
     1. Introduction to Containers with Docker, Kubernetes and OpenShift [96.84%]
+1. Full Stack Software Developer ⏳
+    1. Introduction to Containers w/ Docker, Kubernetes & OpenShift [96.84%]
+    1. Python for Data Science, AI & Development [94.60%]
 1. Data Visualization and Communication with Tableau [85.98%] ✅
 
 *Some Courses are appeared in more than one learning path.*
