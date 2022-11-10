@@ -51,7 +51,7 @@
     1. Python for Data Science, AI & Development [94.60%]
     1. Introduction to Containers with Docker, Kubernetes and OpenShift [96.84%]
 1. Full-Stack Cloud Native Software Developer ⏳
-    1. Introduction to Containers w/ Docker, Kubernetes & OpenShift [96.84%]
+    1. Introduction to Containers with Docker, Kubernetes and OpenShift [96.84%]
     1. Python for Data Science, AI & Development [94.60%]
 1. Data Visualization and Communication with Tableau [85.98%] ✅
 
