@@ -48,6 +48,7 @@
 1. DevOps and Software Engineering ⏳
     1. Introduction to DevOps [98.5%]
     1. Introduction to Cloud Computing [100%]
+    1. Introduction to Agile Development and Scrum [96%] 
     1. Hands-on Introduction to Linux Commands and Shell Scripting [94%]
     1. Python for Data Science, AI & Development [94.60%]
     1. Introduction to Containers with Docker, Kubernetes and OpenShift [96.84%]
