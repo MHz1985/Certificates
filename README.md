@@ -50,10 +50,12 @@
     1. Introduction to Cloud Computing [100%]
     1. Introduction to Agile Development and Scrum [96%] 
     1. Hands-on Introduction to Linux Commands and Shell Scripting [94%]
+    1. Getting Started with Git and GitHub [100%]
     1. Python for Data Science, AI & Development [94.60%]
     1. Introduction to Containers with Docker, Kubernetes and OpenShift [96.84%]
 1. Full-Stack Cloud Native Software Developer ⏳
     1. Introduction to Cloud Computing [100%]
+    1. Getting Started with Git and GitHub [100%]
     1. Introduction to Containers with Docker, Kubernetes and OpenShift [96.84%]
     1. Python for Data Science, AI & Development [94.60%]
 1. Data Visualization and Communication with Tableau [85.98%] ✅
