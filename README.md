@@ -40,11 +40,13 @@
     2. Tools for Data Science [97.91%]
     3. Data Science Methodology [96.50%] 
     4. Python for Data Science, AI & Development [94.60%]
-    5. Databases and SQL for Data Science with Python [98.84%]
+    5. Python Project for Data Science [100%]
+    6. Databases and SQL for Data Science with Python [98.84%]
 1. Data Analyst ⏳
     1. Introduction to Data Analytics [86%]
     1. Python for Data Science, AI & Development [94.60%]
     1. Databases and SQL for Data Science with Python [98.84%]
+    1. Python Project for Data Science [100%]
 1. DevOps and Software Engineering ⏳
     1. Introduction to DevOps [98.5%]
     1. Introduction to Cloud Computing [100%]
