@@ -44,6 +44,7 @@
     6. Databases and SQL for Data Science with Python [98.84%]
     1. Data Analysis with Python [97%]
     1. Data Visualization with Python [97.91%] 
+    1. Machine Learning with Python [95%] 
 1. Data Analyst ⏳
     1. Introduction to Data Analytics [86%]
     1. Python for Data Science, AI & Development [94.60%]
