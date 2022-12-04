@@ -2,7 +2,7 @@
 
 1. IBM Data Warehouse Engineer ✅
 1. IBM Data Engineering ✅
-1. IBM Data Science ⏳ (see progress below)
+1. IBM Data Science ✅
 1. IBM Data Analyst ⏳ (see progress below)
 1. IBM DevOps ⏳ (see progress below)
 1. IBM Full-Stack Cloud Native ⏳ (see progress below)
@@ -45,6 +45,7 @@
     1. Data Analysis with Python [97%]
     1. Data Visualization with Python [97.91%] 
     1. Machine Learning with Python [95%] 
+    1. Applied Data Science Capstone [97%]
 1. Data Analyst ⏳
     1. Introduction to Data Analytics [86%]
     1. Python for Data Science, AI & Development [94.60%]
