@@ -35,7 +35,7 @@
     11. Introduction to Big Data with Spark and Hadoop [94.3%]
     12. Data Engineering and Machine Learning using Spark [100%]
     13. Data Engineering Capstone Project [99%]
-1. Data Science ⏳
+1. Data Science ✅
     1. What is Data Science? [97.50%]
     2. Tools for Data Science [97.91%]
     3. Data Science Methodology [96.50%] 
