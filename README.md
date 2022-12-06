@@ -48,6 +48,7 @@
     1. Applied Data Science Capstone [97%]
 1. Data Analyst ⏳
     1. Introduction to Data Analytics [86%]
+    1. Excel Basics for Data Analysis [100%]
     1. Python for Data Science, AI & Development [94.60%]
     1. Databases and SQL for Data Science with Python [98.84%]
     1. Python Project for Data Science [100%]
