@@ -1,9 +1,9 @@
 # Professional Certificates:
 
 1. IBM Data Science ✅
-1. IBM Data Engineering ✅
-1. IBM Data Warehouse Engineer ✅
-1. IBM Data Analyst ⏳ (see progress below)
+1. IBM Data Analyst ✅
+1. IBM Data Engineer ✅
+1. IBM Data Warehouse ✅
 1. IBM DevOps ⏳ (see progress below)
 1. IBM Full-Stack Cloud Native ⏳ (see progress below)
 
@@ -46,7 +46,7 @@
     1. Data Visualization with Python [97.91%] 
     1. Machine Learning with Python [95%] 
     1. Applied Data Science Capstone [97%]
-1. Data Analyst ⏳
+1. Data Analyst ✅
     1. Introduction to Data Analytics [86%]
     1. Excel Basics for Data Analysis [100%]
     1. Data Visualization and Dashboards with Excel and Cognos [97%]
@@ -54,7 +54,8 @@
     1. Databases and SQL for Data Science with Python [98.84%]
     1. Python Project for Data Science [100%]
     1. Data Analysis with Python [97%]
-    1. Data Visualization with Python [97.91%] 
+    1. Data Visualization with Python [97.91%]
+    1. IBM Data Analyst Capstone Project [89%]
 1. DevOps and Software Engineering ⏳
     1. Introduction to DevOps [98.5%]
     1. Introduction to Cloud Computing [100%]
