@@ -4,6 +4,7 @@
 1. IBM Data Analyst ✅
 1. IBM Data Engineer ✅
 1. IBM Data Warehouse ✅
+1. IBM NoSQL & Big Data ✅
 1. IBM DevOps ⏳ (see progress below)
 1. IBM Full-Stack Cloud Native ⏳ (see progress below)
 
